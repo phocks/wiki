@@ -1,0 +1,12 @@
+{
+  "title": "JB - Personal Wiki",
+  "description": "The personal wiki of Joshua Byrd",
+  "url": "https://example.com/",
+  "rootCrumb": "index",
+  "authorName": "Joshua Byrd",
+  "authorEmail": "phocks@gmail.com",
+  "authorUrl": "https://phocks.org",
+  "lang": "en",
+  "codeHighlight": true,
+  "head": ""
+}
