@@ -8,5 +8,5 @@
   "authorUrl": "https://phocks.org",
   "lang": "en",
   "codeHighlight": true,
-  "head": ""
+  "head": "<link rel='icon' href='/img/favicon.png' type='image/png' />"
 }
